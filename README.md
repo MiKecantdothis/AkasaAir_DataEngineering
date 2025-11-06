@@ -43,7 +43,7 @@ project/
 
 ---
 
-# 🔄 ETL Pipeline (Expandable)
+# 🔄 ETL Pipeline  
 
 <details>
 <summary><strong>Click to expand</strong></summary>
@@ -74,7 +74,7 @@ on:
 
 ---
 
-# 🗄 Database Schema (Expandable)
+# 🗄 Database Schema  
 
 <details>
 <summary><strong>Click to expand schema</strong></summary>
@@ -179,7 +179,7 @@ LIMIT 20;
 
 ---
 
-# 🖥 Streamlit Dashboard (Expandable)
+# 🖥 Streamlit Dashboard  
 
 <details>
 <summary><strong>Click to view dashboard design</strong></summary>
