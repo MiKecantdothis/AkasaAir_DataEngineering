@@ -1,0 +1,9 @@
+supabase 
+python-dotenv 
+lxml 
+python-dateutil 
+pytz 
+loguru
+streamlit
+pandas
+plotly
