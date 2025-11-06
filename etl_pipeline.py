@@ -21,4 +21,5 @@ def run_pipeline(customer_csv, orders_xml):
 
 
 if __name__ == "__main__":
-    run_pipeline("C:/Users/Mike/Desktop/Akasa/task_DE_new_customers.csv", "C:/Users/Mike/Desktop/Akasa/task_DE_new_orders.xml")
+    run_pipeline("task_DE_new_customers.csv", "task_DE_new_orders.xml")
+
